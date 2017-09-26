@@ -1,0 +1,32 @@
+{ "products": [{
+    "title":"Kawasaki Ninja XR",
+    "image": "https://imgd.aeplcdn.com//476x268//bw/models/kawasaki-ninja-zx-14r-2016.jpg?20162402145854",
+    "description": "Lorem ipsum dolor sit amet.",
+    "cost": 300000
+    }, { 
+    "title":"G-Wagon",
+    "image": "https://assets.mbusa.com/vcm/MB/DigitalAssets/Vehicles/ClassLanding/2016/G/Overview/2016-G-CLASS-SUV-CH06-D.jpg",
+    "description": "Lorem ipsum dolor sit amet.",
+    "cost": 35000
+    }, {   
+    "title":"Ducati Black Edition",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp3x9VFF5o1VpJ9EGT7wMXDcX66U2e2l4AifXq5ugN_9I3Al7e0w",
+    "description": "Lorem ipsum dolor sit amet.",
+    "cost": 250000
+    }, {   
+    "title":"Harley Davidson",
+    "image": "https://i.pinimg.com/736x/28/d1/7b/28d17b8268470e9810017237e6e80f7a--antique-motorcycles-cars-motorcycles.jpg",
+    "description": "Lorem ipsum dolor sit amet.",
+    "cost": 380000
+    }, {
+    "title":"Mercedes S-Class",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQECrw-B0Nr5yH7uL_PUg2GYvUhixr8N_lA7baiqLN1r-8p0RwX",
+    "description": "Lorem ipsum dolor sit amet.",
+    "cost": 480000
+    }, {
+    "title":"Bugatti Veyron",
+    "image": "https://i.kinja-img.com/gawker-media/image/upload/s--knsqLPQ0--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/v5ylaijufkvhr6kh45db.jpg",
+    "description": "Lorem ipsum dolor sit amet.",
+    "cost": 500000  
+    }]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "shopping-cart",
+  "description": "Small description for shopping-cart goes here",
+  "main": "",
+  "authors": [
+    "Carol Wanjohi <wanjohi.carol54@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

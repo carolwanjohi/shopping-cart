@@ -1,0 +1,10 @@
+<h1>Items to be Sold</h1>
+
+<ul>
+    {{#each model as |product|}}
+        {{product-tile product=product}}
+    {{/each}}
+</ul>
+
+{{display-cart product=product}}
+
